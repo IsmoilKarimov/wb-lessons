@@ -18,8 +18,18 @@
 // ========================
 
 // 3-dars
-
+// state
+// constructor, super
+// onChange, onClick
+// input, checkbox, select
 
 // ========================
 // ========================
 // 20-dars
+// Restfull API
+// fetch?
+// endpoint, url, api, link
+// CRUD
+// GET, POST, PUT, DELETE
+// Swagger
+
