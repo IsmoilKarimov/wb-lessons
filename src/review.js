@@ -25,6 +25,22 @@
 
 // ========================
 // ========================
+
+// 4-dars
+// function call
+// multi state change
+// student list => add, delete, 
+
+// ========================
+// ========================
+// Context
+// createContext
+// put to the store
+// useContext
+
+// ========================
+// ========================
+
 // 20-dars
 // Restfull API
 // fetch?
